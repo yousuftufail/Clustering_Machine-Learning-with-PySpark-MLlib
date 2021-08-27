@@ -22,6 +22,6 @@ import KMeans from pyspark.mllib.clustering
 
 import pandas 
 
-import matplotlib.pyplot as plt
+import matplotlib.pyplot
 
 
